@@ -7,7 +7,7 @@ import org.osgi.service.component.annotations.Component;
 @Component
 public class ExampleComponent implements ExampleProviderInterface {
 
-	public void doSomething(ThingyDTO thing) {
-	}
+    public void doSomething(ThingyDTO thing) {
+    }
 
 }

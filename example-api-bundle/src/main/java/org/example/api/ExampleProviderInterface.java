@@ -6,6 +6,6 @@ import org.osgi.annotation.versioning.ProviderType;
 @ProviderType
 public interface ExampleProviderInterface {
 
-	void doSomething(ThingyDTO thing);
+    void doSomething(ThingyDTO thing);
 
 }
